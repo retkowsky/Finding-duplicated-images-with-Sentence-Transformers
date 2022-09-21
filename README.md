@@ -11,7 +11,7 @@ https://github.com/UKPLab/sentence-transformers/tree/master/examples/application
 
 <br>
 Some examples:
-<br>
+<br><br>
 <img src="img1.jpg">
 <br>
 <br>
