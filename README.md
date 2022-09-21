@@ -5,6 +5,7 @@ SentenceTransformers provides models that allow to embed images and text into th
 You can find here some python code to detect identical images and similar images from a collection of images file.
 
 Some examples:
+<br>
 <img src="img1.jpg">
 <br>
 <br>
